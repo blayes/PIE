@@ -15,12 +15,12 @@
   - 'variational_bayes.R' contains the  code for the variational Bayes approach.
   - 'submit.R' contains the  code for the R code for submitting a job on the cluster. The files in 'qsub' directory use this file for running simulations.  
 
-* Citation
+* Citation:
   If you use the code, then please cite the following two papers:
   - Li, C., Srivastava, S. and Dunson, D. B. (2017). Simple, scalable and accurate posterior interval estimation.  Biometrika 104: 665-680. [<https://arxiv.org/abs/1605.04029>]
   - Srivastava, S., Cevher, V., Tran-Dinh, Q. and Dunson, D. B. (2015). WASP: Scalable Bayes via barycenters of subset posteriors. Artificial Intelligence and Statistics: 912-920.
    
-* Contact
+* Contact:
   Please email Cheng Li (<stalic@nus.edu.sg>) or Sanvesh Srivastava (<sanvesh-srivastava@uiowa.edu>) if you have any questions related to the code.
 
 * Acknowledgment
